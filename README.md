@@ -1,2 +1,2 @@
 # vue-basics
-This repository is for learn basics
+This repository is for learn vue basics
